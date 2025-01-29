@@ -1,0 +1,13 @@
+pip install pandas
+pip install fastapi
+pip install uvicorn
+
+Para API
+# No Windows (cmd/powershell)
+venv\Scripts\activate
+# No macOS/Linux
+source venv/bin/activate
+
+GET http://127.0.0.1:8000/codigos_postais
+http://127.0.0.1:8000/codigos_postais
+GET http://127.0.0.1:8000/codigos_postais/9000264
