@@ -1,6 +1,15 @@
+Install IntelliJ
+Create an environment on github
+Create a repository
+Clone the repository on the local machine
+Create skeleton base project
+Create Python virtual environment
+Install the libraries below on virtual python enviroment
+
 pip install pandas
 pip install fastapi
 pip install uvicorn
+pip install requests
 
 Para API
 # No Windows (cmd/powershell)
